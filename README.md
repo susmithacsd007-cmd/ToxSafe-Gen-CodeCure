@@ -10,8 +10,8 @@
 ---
 
 ### 👥 The Team
-- **Susmitha** (Lead) – B.Tech CSD, GNITS (Architecture & Lead Developer)  
-- **Himanshu Podwal** – M.Sc Mathematics, IIT Gandhinagar (Statistical Methods & Manifold Analysis)
+- **Susmitha** (Lead) – B.Tech 1st Year CSD, GNITS (Architecture & Lead Developer)  
+- **Himanshu Podwal** – M.Sc Mathematics 1st Year, IIT Gandhinagar (Statistical Methods & Manifold Analysis)
 
 ---
 
