@@ -32,9 +32,12 @@ ToxSafe-Gen is a working prototype that pre-trains on 250,000 ZINC molecules to 
 
 ---
 ### 🔬 Mathematical Rigor (What We Understood)
-- Used **Eigendecomposition** to project 2,048-dimensional space into interactive 2D Manifold (PC1 & PC2).  
-- Applied **Tanimoto Coefficient** for structural similarity.  
-- Optimized **Recall-weighted Hessian** in XGBoost so no toxic molecule is missed (critical for drug safety).
+
+- We performed **Eigendecomposition** of the covariance matrix to reduce 2,048-dimensional chemical space into a meaningful 2D Manifold (PC1 & PC2), enabling visual outlier detection.
+- We used **Tanimoto Coefficient** to quantify structural similarity between ZINC safe molecules and Tox21 compounds.
+- We applied a **Recall-weighted Hessian** in the XGBoost objective function to heavily penalize False Negatives — ensuring no toxic molecule is missed (critical in real drug discovery).
+
+This mathematical foundation is what allows our Chemical Space Map to be both beautiful and scientifically meaningful.
 ---
 
 ### 📸 Prototype Preview (What You’ll See)
