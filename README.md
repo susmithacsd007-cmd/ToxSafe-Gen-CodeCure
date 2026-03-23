@@ -10,7 +10,7 @@
 ---
 
 ### 👥 The Team
-- **Susmitha** (Lead) – B.Tech CSD, GNITS (Architecture & Lead Developer)  
+- **Susmitha** – B.Tech CSD, GNITS (Architecture & Lead Developer)  
 - **Himanshu Podwal** – M.Sc Mathematics, IIT Gandhinagar (Statistical Methods & Manifold Analysis)
 
 ---
@@ -81,8 +81,6 @@ Eigendecomposition → Interactive **Chemical Space Universe Map**.
 
 ---
 
-**Made with ❤️ in 3 days | Regular commits done | Ready for Round 2 live demo**
 
----
 
 
