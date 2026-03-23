@@ -31,6 +31,11 @@ ToxSafe-Gen is a working prototype that pre-trains on 250,000 ZINC molecules to 
 | Architecture             | Single Model            | **Multimodal Fusion** (Text + Graph + 3D) + ZINC Pre-train |
 
 ---
+### 🔬 Mathematical Rigor (What We Understood)
+- Used **Eigendecomposition** to project 2,048-dimensional space into interactive 2D Manifold (PC1 & PC2).  
+- Applied **Tanimoto Coefficient** for structural similarity.  
+- Optimized **Recall-weighted Hessian** in XGBoost so no toxic molecule is missed (critical for drug safety).
+---
 
 ### 📸 Prototype Preview (What You’ll See)
 | Chemical Space Map (Interactive) | SHAP + Atom Highlight |
