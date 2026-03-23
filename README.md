@@ -6,7 +6,7 @@
 
 ## 👥 The Team
 * **Susmitha (Lead)** – B.Tech CSD, GNITS (Architecture & Lead Dev)
-* **Teammate Name** – MSc Mathematics, IIT Gandhinagar (Statistical Methods & Manifold Analysis)
+* **Himanshu Podwal** – MSc Mathematics, IIT Gandhinagar (Statistical Methods & Manifold Analysis)
 
 ---
 
@@ -57,4 +57,4 @@ We use **Shapley Additive Explanations** to provide an "X-Ray" of our prediction
 3. **Run All Cells:** The system will automatically generate the 2D Manifold and activate the Toxicity Prediction Engine.
 
 ---
-*Developed for CodeCure 2026. Ready for Round 2 Live Demonstration.*
+
