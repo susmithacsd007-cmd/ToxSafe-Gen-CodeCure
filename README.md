@@ -3,7 +3,7 @@
 **CodeCure AI Hackathon | Track A: Drug Toxicity Prediction**  
 **SPIRIT'26 – IIT (BHU) Varanasi**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/ToxSafe-Gen-CodeCure-SPIRIT26/blob/main/mission_impossible.ipynb)
+[![Open in Colab](https://colab.research.google.com/drive/14qLrPWHF4nxcQSAg9_JmtuI2mgwwKHc6?usp=sharing)
 
 **🔴 Click the blue Colab badge above → Upload both .zip files → Run all cells → See everything live!**
 
@@ -67,7 +67,7 @@ This helped us visually show why some molecules are toxic outliers.
 - All 10 weapons activate with green checks  
 - Toxicity prediction + SAS score + SHAP explanation
 
-**This is a fully functional, interactive prototype** — exactly as required for Round 1.
+**This is a fully functional, interactive prototype** 
 
 ---
 
