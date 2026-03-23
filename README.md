@@ -77,10 +77,6 @@ You will instantly see the map + all 10 weapons + predictions.
 
 ---
 
-**Built piece by piece over 3 days with regular commits**  
-(Every major feature has its own commit — feel free to check history)
 
-**Made with ❤️ by Susmitha + Himanshu**  
-Super excited for Round 2! Ready to demo live and explain the math 😊
 
 
