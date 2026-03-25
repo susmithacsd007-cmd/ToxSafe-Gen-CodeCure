@@ -1,0 +1,8 @@
+# Ignoring large files and directories
+*.csv
+*.pkl
+*.joblib
+__pycache__/
+.streamlit/
+.venv/
+venv/
